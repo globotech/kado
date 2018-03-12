@@ -1,21 +1,21 @@
 # Kado
 
-Modular application development framework based on Node.js
+A modular application development framework based on Node.js
 
 ## Preface
 
 Take a look at this blog post: https://www.nullivex.com/blog/kado-comeback
 
-## What does it do
+## What does it do?
 
-Kado provides a simple extensible environment to run
+Kado provides a simple and extensible environment to run
 modules that group together to become an application.
 
 This is contrary to the traditional approach of starting with
-base code and assets then providing routes on top of that.
+a code base and assets then providing routes on top of that.
 Kado aims to compress the duplicated code created during this
-process and provide a simpler workflow for developers that
-remains consistent regardless of a changing environment.
+process to provide a more simple workflow for developers that
+remain consistent regardless of a changing environment.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Basic administration panel
 # node app
 ```
 
-Simple blog website (equivalent of wordpress)
+Simple blog website (equivalent to wordpress)
 
 ```
 # mkdir myblog
@@ -41,7 +41,7 @@ Simple blog website (equivalent of wordpress)
 
 ## Modules
 
-Kado modules drive the entire user space system which comprises
+Kado modules drive the entire user space system which consist of
 the actionable code.
 
 The plugin format follows a rather loose format to provide
